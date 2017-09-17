@@ -1,0 +1,9 @@
+{
+	"port": "",
+	"api": {
+		"lastfm": {
+			"key": "",
+			"location": "http://ws.audioscrobbler.com"
+		}
+	}
+}
